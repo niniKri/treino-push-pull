@@ -20,5 +20,6 @@ It includes:
 ## Updates
 
 - Editado no GitHub para testar fetch  
-- O colega também contribuiu  
+- O colega também contribuiu
+- Commit do colega que chegou primeiro.
 
